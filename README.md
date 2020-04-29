@@ -26,7 +26,11 @@ title={TUNIZI: a Tunisian Arabizi sentiment analysis Dataset},
 author={Fourati, Chayma and Messaoudi, Abir and Haddad, Hatem},
 
 booktitle={AfricaNLP Workshop, Putting Africa on the NLP Map. ICLR 2020, Virtual Event},
+
 volume    = {arXiv:3091079},
+
 year      = {2020},
+
 url       = {https://arxiv.org/submit/3091079},
+
 }
